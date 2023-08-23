@@ -5,6 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vanshchauhan1310&label=Profile%20views&color=0e75b6&style=flat" alt="vanshchauhan1310" /> </p>
 
+<img src="https://gifdb.com/images/high/animated-man-computer-coding-nae6mec378lsg1i3.gif" align="right" height="300px" margin="0px,0px,0px,200px">
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vanshchauhan1310" alt="vanshchauhan1310" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
