@@ -1,4 +1,4 @@
-<img src="https://i.pinimg.com/originals/51/4f/3f/514f3fccb71047d780be491c435a79e1.gif" align="center" height="500px">
+<img src="https://github.com/vanshchauhan1310/vanshchauhan1310/blob/main/banner.gif" align="center" height="500px">
 
 <h1 align="center">Hi 👋, I'm Vansh Raj Chauhan</h1>
 <h3 align="center">A passionate frontend developer My journey in the tech world has led me to explore various domains, from web development to beyond . I thrive on challenges and enjoy collaborating with fellow developers to bring ideas to life.</h3>
