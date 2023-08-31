@@ -10,6 +10,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/vansh-raj-chauhan-64b50a258/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vansh-raj-chauhan-64b50a258/" height="30" width="40" /></a>
+  <img src="https://github.com/vanshchauhan1310/vanshchauhan1310/blob/main/programmer.gif" align = "left">
 <a href="https://instagram.com/https://www.instagram.com/vanshraj___/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/vanshraj___/" height="30" width="40" /></a>
 </p>
 
