@@ -1,7 +1,7 @@
 <img src="https://github.com/vanshchauhan1310/vanshchauhan1310/blob/main/banner3.gif" align="center" height="500px">
 
 <h1 align="center">Hi 👋, I'm Vansh Raj Chauhan</h1>
-<h3 align="center">A passionate frontend developer fromMy journey in the tech world has led me to explore various domains, from web development to beyond. I thrive on challenges and enjoy collaborating with fellow developers to bring ideas to life.</h3>
+<h3 align="center">A passionate frontend developer fromMy journey in the tech world has led me to explore various domains, from web development to beyond.. I thrive on challenges and enjoy collaborating with fellow developers to bring ideas to life.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vanshchauhan1310&label=Profile%20views&color=0e75b6&style=flat&theme=radical" alt="vanshchauhan1310" /> </p>
 
