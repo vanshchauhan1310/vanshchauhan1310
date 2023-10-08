@@ -28,26 +28,18 @@
 <p align="center"> 
   <samp>
     <br>
-A passionate frontend developer fromMy journey in the tech world has led me to explore various domains, from web development to beyond.. I thrive on challenges and enjoy collaborating with fellow developers to bring ideas to life.
+A passionate frontend developer from My journey in the tech world has led me to explore various domains, from web development to beyond.. I thrive on challenges and enjoy collaborating with fellow developers to bring ideas to life.
     <br>
     <br>
   </samp>
 </p>
 
-<p align="center">
-
- <a href="https://linkedin.com/in/al-siam" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="alsiam"/>
- </a>
-
- <a href="https://instagram.com/alsiam_dev" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="alsiam" />
- </a> 
- <a href="https://facebook.com/alsiam.world" target="_blank">
-  <img src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white" alt="alsiam"  />
-  </a> 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/vansh-raj-chauhan-64b50a258/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vansh-raj-chauhan-64b50a258/" height="30" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/vanshraj___/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/vanshraj___/" height="30" width="40" /></a>
 </p>
-<br />
+
 
 <!-- About Section -->
  # About me
