@@ -71,19 +71,22 @@ A passionate Mern Stack developer from My journey in the tech world has led me t
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
   
-</div><h3 align="left">Stars</h3>
-<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanshchauhan1310&layout=compact&theme=radical" alt=vanshchauhan1310 />
-
-<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=vanshchauhan1310&show_icons=true&locale=en&theme=radical" alt="vanshchauhan1310" /></p>
-
-<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=vanshchauhan1310&theme=radical" alt="vanshchauhan1310" /></p>
+</div>
+<h3 align="center">Github Dashboard</h3>
+<a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=112659160" target="_blank" style="display: block" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=112659160&image_size=auto&color_scheme=dark" width="771" height="auto">
+    <img alt="Dashboard stats of @vanshchauhan1310" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=112659160&image_size=auto&color_scheme=light" width="771" height="auto">
+  </picture>
+</a>
+<br/>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <h3 align="center">Statistics</h3>
 <div align="center">
 <a href="https://github.com/vanshchauhan1310">
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=vanshchauhan1310&theme=2077" height="180em" />
+<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=vanshchauhan1310&theme=radical" alt="vanshchauhan1310" /></p>
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vanshchauhan1310&theme=radical" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vanshchauhan1310&theme=radical" height="180em" />  
 </div>
