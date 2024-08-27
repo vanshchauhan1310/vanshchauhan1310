@@ -7,7 +7,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=vanshchauhan1310&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 <p align="center">
-  <a href="https://github.com/alsiam"><img src="https://readme-typing-svg.herokuapp.com/?lines=Self%20Taught%20Programmer;Front%20End%20Developer;2%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
+  <a href="https://github.com/alsiam"><img src="https://readme-typing-svg.herokuapp.com/?lines=Self%20Taught%20Programmer;Mern%20Stack%20Developer;2%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&center=true&width=380&height=45&font-size=40"></a>
 </p>
 
 
@@ -25,7 +25,7 @@
 <p align="center"> 
   <samp>
     <br>
-A passionate frontend developer from My journey in the tech world has led me to explore various domains, from web development to beyond.. I thrive on challenges and enjoy collaborating with fellow developers to bring ideas to life.
+A passionate Mern Stack developer from My journey in the tech world has led me to explore various domains, from web development to beyond.. I thrive on challenges and enjoy collaborating with fellow developers to bring ideas to life.
     <br>
     <br>
   </samp>
