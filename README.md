@@ -1,7 +1,7 @@
 
 <h2 align="center">
-  Welcome to Vansh Raj Chauhan World!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+  <img src="github-header-image.png" width="100%">
+
 </h2>
 
 ![](https://github-profile-trophy.vercel.app/?username=vanshchauhan1310&theme=radical&no-frame=false&no-bg=false&margin-w=4)
@@ -15,19 +15,14 @@
 
 
 <!-- Intro  -->
-<h3 align="center">
-        <samp>&gt; Hey There!, I am
-                <b><a target="_blank" href="https://alsiam.com">Vansh Raj Chauhan</a></b>
-        </samp>
-</h3>
 
 
-<p align="center"> 
-  <samp>
+
+<p align="center">
+  <samp style="font-size: 24;">
     <br>
-A passionate Mern Stack developer from My journey in the tech world has led me to explore various domains, from web development to beyond.. I thrive on challenges and enjoy collaborating with fellow developers to bring ideas to life.
-    <br>
-    <br>
+    A passionate Full Stack developer from my journey in the tech world has led me to explore various domains, from web development to beyond. I thrive on challenges and enjoy collaborating with fellow developers to bring ideas to life.
+    <br><br>
   </samp>
 </p>
 
